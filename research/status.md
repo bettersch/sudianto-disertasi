@@ -48,7 +48,7 @@ A flow gate takes the most conservative status among the gates it bundles.
 | Gate | Status | Audit/evidence link |
 |---|---|---|
 | G0 Context | NOT ASSESSED | Issues #1, #4, #7; `research/project-brief.md`; GRO-01 v0.2 researcher verification recorded in Issue #4 |
-| G1 Problem | NOT ASSESSED | `research/problem-memo.md` v0.2; PHN-001–PHN-005 plus new Renstra claims under Issue #7; construct/problem lock incomplete |
+| G1 Problem | NOT ASSESSED | `research/problem-memo.md` v0.3; PHN-001–PHN-005 plus new Renstra claims under Issue #7; construct/problem lock incomplete |
 | G2 Protocol & evidence | NOT ASSESSED | Stage 1 locus search registered; Renstra registration/extraction active; Stage 2–3 scholarly review protocols incomplete |
 | G3 Theory & contribution | NOT ASSESSED | Theory intentionally blocked pending Issues #7–#10; no scholarly gap, novelty, or contribution selected |
 | G4 Design | NOT ASSESSED | Method/design blocked by Issue #12 model-lock gate |

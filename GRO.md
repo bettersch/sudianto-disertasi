@@ -16,7 +16,7 @@ The only part of this file that is overwritten. Sections below keep their histor
 | Awaiting your verification | GRO-01 · v0.2 |
 | Sections verified | 0 of 11 in canonical GRO; researcher acceptance of v0.1 is recorded in Issue #1 |
 | `brain.md` commit | Issue #4 branch; final sync to be recorded at checkpoint |
-| Last updated / by | 2026-10-11 / ChatGPT, Issue #4 |
+| Last updated / by | 2026-10-11 / ChatGPT, Issue #4, PR #5 |
 
 ## How to read this
 
@@ -28,7 +28,7 @@ Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, aw
 
 - Status: REPORTED
 - Flow stage / gate: Stage 0–1 · FG0
-- Version: v0.2 · Issue #4 branch; PR pending
+- Version: v0.2 · PR #5
 - Basis: CTX-001, CTX-002, CTX-003; PHN-001, PHN-002, PHN-003, PHN-004, PHN-005; SRC-001–SRC-006; PRM-001; `research/problem-memo.md` v0.2
 - Verified by / date: AWAITING RESEARCHER
 
@@ -149,7 +149,7 @@ Reports what the findings mean against the theory and the literature. One paragr
 - Basis: —
 - Verified by / date: —
 
-Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
+Reports the answers to the questions, the limits, and what follows. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -174,7 +174,7 @@ Every rewrite of a section is recorded here with its reason. Superseded paragrap
 | Section | Version | Date | PR | What changed and why | Sections put in question |
 |---|---|---|---|---|---|
 | GRO-01 | v0.1 | 2026-10-11 | #2 | Initial Sudianto project framing from researcher-provided context; deliberately withheld empirical phenomenon, theory, gap, method, and novelty until evidence was registered | GRO-02 through GRO-07 remained unopened |
-| GRO-01 | v0.2 | 2026-10-11 | Issue #4 / PR pending | Registered Stage 1 locus evidence replaced the evidence-absent framing with a bounded capability-development and modernization phenomenon and explicit limits against a generalized deficit narrative | GRO-02 remains unopened pending researcher verification of v0.2 |
+| GRO-01 | v0.2 | 2026-10-11 | #5 | Registered Stage 1 locus evidence replaced the evidence-absent framing with a bounded capability-development and modernization phenomenon and explicit limits against a generalized deficit narrative | GRO-02 remains unopened pending researcher verification of v0.2 |
 
 ### Superseded GRO-01 v0.1 paragraph
 

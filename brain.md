@@ -2,7 +2,7 @@
 
 Project: Sudianto Dissertation — Korbrimob Polri HRM research.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: 53bfd0ed944a68a28e8529a814e9804ed44b01b9 (initialization merge from PR #2). Synced by: ChatGPT / Issue #1.
+Last synced commit: PENDING Issue #4 checkpoint. Synced by: ChatGPT / Issue #4.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -36,7 +36,7 @@ Mandate, constraints, resources, access to the locus, and the paradigm with its 
 |---|---|---|---|---|---|---|---|---|
 | CTX-001 | The researcher specifies this as doctoral Management research with an HRM concentration and Korbrimob Polri personnel as the study locus. | KNOWN | DEC-007 |  | CTX-002 |  | FG0 |  |
 | CTX-002 | The working title proposes transformational leadership, competence development practices, affective organizational commitment, digital competence, and individual work performance as starting constructs rather than evidence-validated selections. | KNOWN | DEC-007 | CTX-001 | CTX-003 |  | FG0 |  |
-| CTX-003 | Theory, paradigm, final construct relationships, research questions, method, and novelty remain undecided until the required evidence is registered and reviewed. | KNOWN | DEC-008 | CTX-002 |  |  | FG0–FG1 |  |
+| CTX-003 | Theory, paradigm, final construct relationships, research questions, method, and novelty remain undecided until the required evidence is registered and reviewed. | KNOWN | DEC-008 | CTX-002 | PHN-001; PHN-002; PHN-003; PHN-004; PHN-005 |  | FG0–FG1 |  |
 
 Paradigm: NOT YET DECIDED. Reason: the empirical problem and research questions are not yet established.
 
@@ -46,8 +46,13 @@ What is happening, where (locus), since when, and to whom. Evidence comes from t
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| PHN-001 | Korbrimob's current official function includes staged, gradual, and continuous technical and unit training intended to standardize capability and operational readiness. | SUPPORTED | SRC-001; PRM-001 | CTX-001 |  | Introduction | FG0–FG1 |  |
+| PHN-002 | In 2026 Korbrimob conducted a Danyon Pelopor tactical-management program explicitly framed as human-resource development for leadership, managerial, tactical, and adaptive capacity under evolving operational demands. | SUPPORTED | SRC-002; PRM-001 | CTX-001; CTX-002 |  | Introduction | FG0–FG1 |  |
+| PHN-003 | In 2026 Korbrimob publicly linked personnel competence development with technological progress and implemented technology-related capability training, including role-specific drone and antidrone training for selected functions. | SUPPORTED | SRC-003; SRC-004; PRM-001 | CTX-001; CTX-002 |  | Introduction | FG0–FG1 |  |
+| PHN-004 | Korbrimob's 2026 Rakernis included performance evaluation and publicly reported recommendations for comprehensive human-resource evaluation and operational modernization in response to increasingly complex and dynamic tasks. | SUPPORTED | SRC-005; SRC-006; PRM-001 | CTX-001 |  | Introduction | FG0–FG1 |  |
+| PHN-005 | The Stage 1 institutional evidence reviewed does not support a generalized claim that Korbrimob or its personnel have low performance because official reporting also recognizes recent organizational achievements while calling for continued capability strengthening. | INFERRED | SRC-005; SRC-006 | PHN-004 |  | Introduction | FG0–FG1 |  |
 
-Locus: Korbrimob Polri personnel — researcher specified. The empirical phenomenon, time boundary, affected units/personnel, and locus evidence are NOT YET ESTABLISHED/REGISTERED.
+Locus: Korbrimob Polri personnel — researcher specified. Current registered phenomenon evidence is concentrated in 2026 and covers formal training functions, commander development, specialist education, selected technology-capability training, and organization-level evaluation/modernization priorities; it does not establish individual-level performance, commitment, leadership perceptions, or digital-competence levels.
 
 ## Stage 2 — Theory (`THR`) and theory gaps (`GAP`)
 
@@ -108,7 +113,7 @@ Implications promised — theoretical (to Stage 2) and practical (to the locus),
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
 
-Urgency — NOT YET EVIDENCED. The researcher-specified locus and topic may be practically important, but institutional/source evidence is required before a “why now” claim is registered.
+Urgency — SUPPORTED at the practical/contextual level by PHN-002 through PHN-004: Korbrimob is actively developing leadership, specialist competence, and technology-related capability while evaluating human resources and operational modernization under increasingly complex task demands. This is not yet a scholarly gap.
 
 FG1 check — the chain Phenomenon → Theory → Gap → Novelty → RQ is connected without a jump and relevant: NOT ASSESSED.
 
@@ -180,6 +185,7 @@ Terminology — one term per concept across all sections:
 | Concept | Term used | Rejected variants |
 |---|---|---|
 | Research locus | Korbrimob Polri personnel | Treating an organizational-level claim as established from individual perceptions |
+| Stage 1 phenomenon | Ongoing personnel capability development and operational modernization under complex and increasingly technology-relevant task demands | Generalized low performance; weak commitment; deficient leadership without direct evidence |
 
 ## Coherence check
 
@@ -187,7 +193,7 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 
 | Check | Rule | Status | IDs affected |
 |---|---|---|---|
-| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | No PHN registered yet |
+| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | PHN-001–PHN-005 registered; Stage 2 has not started |
 | Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | |
 | Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | |
 | Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | NOT ASSESSED | |
@@ -198,6 +204,6 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 | Limitations bite | every `LIM` names the `CCL` or `IMP` it weakens | NOT ASSESSED | |
 | Method traces | every `MTH` links a `DEC` or `PRM` | NOT ASSESSED | |
 | Manuscript is mapped | every paragraph in the outline maps to at least one statement | NOT ASSESSED | |
-| No dangling links | validator passes; coherence report shows no dangling or orphan IDs | NOT ASSESSED | CTX-003 currently has no downstream research statement because Stage 1 evidence is not yet registered |
+| No dangling links | validator passes; coherence report shows no dangling or orphan IDs | NOT ASSESSED | Stage 1 PHN statements intentionally have no downstream THR/GAP/NOV until GRO-01 is re-verified and Stage 2 begins |
 
 A PASS here is a mechanical and structural result. It is not an academic quality gate; those are assessed in `reviews/`.

@@ -1,49 +1,47 @@
 # Problem Memo — Framing (Stages 1–4)
 
-Status: INITIAL DRAFT — EVIDENCE MAPPING REQUIRED. Version/date/author: v0.1 / 2026-10-11 / AI-assisted, awaiting researcher verification. Brain commit: pending synchronization on initialization branch.
+Status: STAGE 1 EVIDENCE REGISTERED — THEORY/GAP/RQ NOT YET ESTABLISHED. Version/date/author: v0.2 / 2026-10-11 / AI-assisted, awaiting researcher verification of revised GRO-01. Brain sync: Issue #4 branch.
 
-This memo carries the framing chain Phenomenon → Theory → Gap → Novelty → RQ. At initialization, only the researcher mandate and repository context are established. The empirical phenomenon, theory, gap, novelty, and RQs remain open until actual evidence is registered. An untested gap remains a candidate gap.
+This memo carries the framing chain Phenomenon → Theory → Gap → Novelty → RQ. Stage 1 now has registered primary institutional evidence, but theory, scholarly gap, novelty, and RQs remain open. Institutional urgency is not treated as a scholarly gap.
 
 ## 1. Phenomenon (Stage 1)
 
-The researcher specifies Korbrimob Polri personnel as the locus and proposes an HRM study involving transformational leadership, competence development practices, affective organizational commitment, digital competence, and individual work performance. That specification identifies **what the researcher wants to investigate**, but it does not establish what empirical phenomenon is currently occurring in Korbrimob.
+The Stage 1 search was executed under `PRM-001` and logged as `RUN-001` to `RUN-003`. Six primary institutional source notes (`SRC-001` to `SRC-006`) were retained.
 
-No project-specific `SRC`, `DAT`, `PRM`, or `RUN` record has yet been registered to support claims such as low performance, weak commitment, leadership problems, inadequate development practices, or insufficient digital competence. Those claims must not be introduced without evidence.
+The evidence supports five bounded phenomenon statements (`PHN-001` to `PHN-005`):
 
-Current Stage 1 direction: establish the real locus phenomenon from primary Korbrimob/Polri sources and, where appropriate, safe empirical or administrative evidence; record time boundary, affected personnel/units, and what remains unexplained.
+- Korbrimob formally describes staged, gradual, and continuous technical/unit training as a function for capability standardization and operational readiness (`PHN-001`).
+- In 2026, Danyon Pelopor leadership/tactical-management development was explicitly framed as HR development for leadership, managerial, tactical, and adaptive capacity (`PHN-002`).
+- In 2026, Korbrimob publicly linked competence development with technological progress and conducted role-specific technology-capability training, including drone/antidrone capability for selected functions (`PHN-003`).
+- Rakernis Korbrimob 2026 included performance evaluation and publicly reported recommendations for comprehensive HR evaluation and operational modernization amid increasingly complex and dynamic tasks (`PHN-004`).
+- The reviewed institutional evidence does not support a generalized low-performance narrative because official reporting also acknowledges recent organizational achievements while calling for continued capability strengthening (`PHN-005`).
 
-Statements (`PHN`): NOT YET REGISTERED — locus evidence required first.
+The defensible Stage 1 phenomenon is therefore **ongoing personnel capability development and operational modernization under complex and increasingly technology-relevant task demands**, not an established organizational performance crisis.
+
+Important limit: institutional communications establish activities, priorities, and stated targets. They do not establish individual-level perceptions, affective commitment, digital competence levels, or causal effects on individual performance.
 
 ## 2. Theoretical grounding (Stage 2)
 
-No grand theory is selected at initialization.
+No grand theory is selected.
 
-Prior project context proposed Social Exchange Theory and an ability–motivation logic. These are **candidate ideas only** and are not adopted here because the theoretical review has not yet been executed or registered. Theory selection must follow the verified phenomenon and inspect alternative mechanisms rather than merely fit a preferred model.
+Prior project context proposed Social Exchange Theory and an ability–motivation logic. These remain candidate ideas only. Stage 2 must now test which theoretical mechanism best explains the registered phenomenon and whether the proposed constructs are functionally necessary rather than merely compatible with the working title.
 
 Statements (`THR`): NOT YET REGISTERED.
 
 ## 3. Main problem
 
-### Researcher-proposed problem architecture
+### Evidenced locus problem
 
-The working title proposes an individual-level HRM explanation in which people-management behavior and competence-development practices are related to personnel performance, with affective organizational commitment and digital competence playing explanatory roles.
+Korbrimob is demonstrably investing in continuing personnel training, leadership development, specialist competence, and technology-related capability while also evaluating HR and operational modernization in response to increasingly complex demands. What the Stage 1 evidence does **not** explain is how these organization-level development and modernization efforts are experienced by individual personnel or how they relate to employee attitudes and individual work performance.
 
-### Current evidential status
-
-This architecture is not yet an established research problem. The project does not yet have registered evidence showing:
-
-- the specific organizational/personnel phenomenon that requires explanation;
-- that the proposed five constructs are the best conceptual representation of that phenomenon;
-- that affective commitment is the relevant mechanism rather than another employee state;
-- that digital competence is a theoretically necessary boundary condition;
-- that the implied relationships transfer to Korbrimob Polri;
-- or that the proposed model is feasible given actual access and measurement conditions.
+This unresolved individual-level mechanism is a **problem-framing direction**, not yet a scholarly research gap. Whether transformational leadership, competence-development practices, affective organizational commitment, digital competence, and individual work performance are the best construct set must be tested through Stage 2 theory and Stage 3 empirical literature review.
 
 ### Candidate unit/context boundary
 
 - Locus/population: Korbrimob Polri personnel — researcher specified.
-- Candidate unit of analysis: individual personnel — suggested by the working title, not yet design-approved.
-- Time boundary: NOT YET DECIDED.
+- Candidate unit of analysis: individual personnel — still provisional because the locus evidence is organization/program level and individual-level access has not yet been verified.
+- Current phenomenon-evidence boundary: primarily 2026, with the organizational function page accessed in 2026.
+- Final study time boundary: NOT YET DECIDED.
 - Explicitly outside current framing scope: method choice, estimator choice, instrument design, causal claims, and novelty claims.
 
 ## 4. Gaps
@@ -52,15 +50,17 @@ No theory or research gap is established yet.
 
 | `GAP` | Kind (theory / research) | Statement | Evidence of the gap (`THR`, `LIT`, searches) |
 |---|---|---|---|
-| — | — | NOT YET ESTABLISHED. A new locus or a five-variable combination is not sufficient evidence of a gap. | Requires theoretical and empirical literature review |
+| — | — | NOT YET ESTABLISHED. Stage 1 shows a real institutional phenomenon but does not establish what scholarship fails to explain. | Requires Stage 2 theoretical review and Stage 3 empirical literature review |
 
-Candidate gap language from prior context — HRM-performance mechanism, boundary condition, or transferability to a high-risk hierarchical workforce — must remain **candidate framing** until closest-study comparison, counterevidence, and boundary conditions are mapped.
+Candidate gap language such as HRM-performance mechanism, boundary conditions, or transferability to a high-risk hierarchical workforce remains under review until closest studies, counterevidence, and alternative mechanisms are mapped.
 
 ## 5. State of the art
 
 NOT YET ESTABLISHED.
 
-A state-of-the-art claim requires the verified phenomenon plus a theoretical review and empirical literature review. Prior article matrices or conversational summaries may be useful leads, but they are not imported as completed evidence work until source notes, search provenance, and access status are registered in this repository.
+Stage 1 establishes the locus phenomenon only. State of the art requires the phenomenon to be read against a theoretical review and an empirical literature review.
+
+Prior article matrices and conversational summaries remain useful leads but are not treated as a completed project review until search provenance, source notes, appraisal, and claim relations are registered in this repository.
 
 ## 6. Novelty (`NOV`)
 
@@ -74,13 +74,13 @@ The project must not claim novelty because:
 - SEM/PLS-SEM is used;
 - or “few studies” were found.
 
-Any future novelty claim must answer a documented theory gap, research gap, or both and be tested against the closest prior studies.
+Any future novelty claim must answer a documented theory gap, research gap, or both and must survive comparison with the closest prior studies.
 
 ## 7. Research questions (`RQ`)
 
 Final RQs are NOT YET DECIDED.
 
-The working title suggests candidate questions about relationships among the five proposed constructs, but formal RQs cannot yet be registered because the theoretical review, empirical literature review, gap, and novelty are not established.
+The registered phenomenon justifies asking how individual-level HR processes may relate to capability and performance, but the exact research questions must be derived only after the theory and empirical literature establish the mechanism and the gap.
 
 | `RQ` | Question | Derived from (`THR`, `NOV`) | Answers gap (`GAP`) | Format |
 |---|---|---|---|---|
@@ -88,11 +88,13 @@ The working title suggests candidate questions about relationships among the fiv
 
 ## 8. Urgency and implications promised (`IMP`)
 
-Practical relevance is plausible because the researcher selected Korbrimob Polri and HRM as the locus/discipline, but **urgency is not yet evidenced** in the repository.
+Practical/contextual urgency is now supported at a bounded level.
 
-Before making a “why now” claim, inspect actual current institutional sources on personnel capability, leadership development, competence development, technology use, performance expectations, or related organizational priorities. These sources can establish context and urgency; they do not by themselves establish a scholarly gap.
+Korbrimob's official material shows that leadership development, specialist competence development, operational readiness, technology-related capability, HR evaluation, and operational modernization are active current concerns. The organization is preparing personnel for complex and dynamic tasks rather than reporting a generalized performance collapse.
 
-No theoretical or practical implication is promised yet.
+This supports a defensible “why now” statement: **personnel capability is being actively developed while operational and technological demands evolve, making the human mechanism through which development and leadership relate to individual work outcomes practically relevant to examine.**
+
+No theoretical or practical implication is promised yet because the scholarly mechanism and research gap remain unestablished.
 
 ## 9. Contribution statement (`CTB`)
 
@@ -104,14 +106,17 @@ Candidate contribution language from prior context — explaining an HRM-perform
 
 | Candidate problem or question | Scholarly value | Evidence that could realistically be obtained | Feasibility/risk | Decision and rationale |
 |---|---|---|---|---|
-| Retain the five-construct working model as proposed | Potentially coherent HRM mechanism model if evidence supports the constructs and paths | Institutional context, peer-reviewed construct/mechanism studies, access/measurement evidence | Risk of model-first reasoning and forced moderator/mediator | KEEP AS RESEARCHER-PROVIDED STARTING SPECIFICATION ONLY; not validated |
-| Narrow the project to the strongest evidenced HRM mechanism after Stage 1–3 | Higher parsimony if one part of the proposed model lacks support | Same evidence base, with closest-study comparison | May require revising the working title/model | OPEN ALTERNATIVE |
-| Replace a construct/path if evidence shows construct mismatch or wrong level of analysis | Protects validity and construct clarity | Construct literature, contextual evidence, feasibility/access information | Requires explicit researcher decision and audit trail | OPEN ALTERNATIVE |
-| Retain the original title/model regardless of evidence | Low scholarly defensibility if contradictions emerge | Not evidence-responsive | High risk of confirmation bias | REJECTED AS A WORKING PRINCIPLE; model must remain challengeable |
+| Frame the locus as a generalized low-performance problem | Would create a simple managerial problem statement | Current institutional sources do not provide the required individual-level or organization-wide deficit evidence | High risk of fabrication/overclaim | REJECTED at Stage 1 |
+| Frame the locus as ongoing capability development and modernization under complex demands | Closely matches current primary institutional evidence and leaves room for theory to identify the relevant individual mechanism | Official Korbrimob/Polri sources plus later scholarly evidence and field access | Does not by itself establish a scholarly gap | PREFERRED STAGE 1 FRAMING; re-reported in GRO-01 v0.2 |
+| Retain the five-construct working model as proposed | Potentially coherent HRM mechanism model if evidence supports the constructs and paths | Theory and empirical literature, plus access/measurement evidence | Risk of model-first reasoning and forced moderator/mediator | KEEP AS RESEARCHER-PROVIDED STARTING SPECIFICATION ONLY |
+| Narrow the project to the strongest evidenced HRM mechanism after Stage 2–3 | Higher parsimony if one part of the proposed model lacks support | Same evidence base with closest-study comparison | May require revising the title/model | OPEN ALTERNATIVE |
+| Replace a construct/path if evidence shows mismatch or wrong level of analysis | Protects construct validity and theoretical coherence | Construct literature, context evidence, feasibility/access information | Requires explicit researcher decision and audit trail | OPEN ALTERNATIVE |
 
 ## 11. FG1 check
 
 The chain Phenomenon → Theory → Gap → Novelty → RQ is connected without a jump and relevant: **NOT ASSESSED**.
+
+Stage 1 phenomenon evidence is registered, but Stage 2–4 have not been completed.
 
 Coherence check in `brain.md`: NOT ASSESSED.
 
@@ -119,10 +124,9 @@ Gates G1, G2, G3: NOT ASSESSED.
 
 ### Next decisions/evidence required
 
-1. Researcher verifies or revises GRO-01.
-2. Record institution/program requirements and output/citation rules.
-3. Register primary locus evidence and a search parameter set/run for the Korbrimob phenomenon.
-4. Establish realistic participant/data access and time boundary.
-5. Conduct a theory review before selecting the theoretical backbone.
-6. Conduct an empirical literature review before asserting a gap, novelty, formal RQs, or a final construct architecture.
-7. Only after FG1 is supportable should method/design selection begin.
+1. Researcher verifies or revises GRO-01 v0.2.
+2. Record institution/program requirements and output/citation rules when available.
+3. Verify realistic participant/data access and the final unit of analysis.
+4. Conduct Stage 2 theory review before selecting a theoretical backbone or accepting the proposed mechanism.
+5. Conduct Stage 3 empirical literature review before asserting a scholarly gap, novelty, formal RQs, or final construct architecture.
+6. Only after FG1 is supportable should method/design selection begin.

@@ -15,8 +15,8 @@ The only part of this file that is overwritten. Sections below keep their histor
 | **Destination** | NOT YET DECIDED — the evidence-backed contribution cannot be set before locus, theory, and empirical literature are reviewed |
 | Awaiting your verification | GRO-01 · v0.1 |
 | Sections verified | 0 of 11 |
-| `brain.md` commit | initialization branch; final sync pending PR checkpoint |
-| Last updated / by | 2026-10-11 / ChatGPT, Issue #1 |
+| `brain.md` commit | initialization branch; final sync recorded in `brain.md` / Issue #1 checkpoint |
+| Last updated / by | 2026-10-11 / ChatGPT, Issue #1, PR #2 |
 
 ## How to read this
 
@@ -28,7 +28,7 @@ Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, aw
 
 - Status: REPORTED
 - Flow stage / gate: Stage 0–1 · FG0
-- Version: v0.1 · Issue #1 initialization branch; PR pending
+- Version: v0.1 · PR #2
 - Basis: CTX-001, CTX-002, CTX-003; `research/project-brief.md` v0.1; `research/problem-memo.md` v0.1
 - Verified by / date: —
 
@@ -173,4 +173,4 @@ Every rewrite of a section is recorded here with its reason. Superseded paragrap
 
 | Section | Version | Date | PR | What changed and why | Sections put in question |
 |---|---|---|---|---|---|
-| GRO-01 | v0.1 | 2026-10-11 | Issue #1 initialization branch; PR pending | Initial Sudianto project framing from researcher-provided context; deliberately withholds empirical phenomenon, theory, gap, method, and novelty until evidence is registered | GRO-02 through GRO-07 remain unopened |
+| GRO-01 | v0.1 | 2026-10-11 | #2 | Initial Sudianto project framing from researcher-provided context; deliberately withholds empirical phenomenon, theory, gap, method, and novelty until evidence is registered | GRO-02 through GRO-07 remain unopened |

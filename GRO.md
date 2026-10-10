@@ -15,8 +15,8 @@ The only part of this file that is overwritten. Sections below keep their histor
 | **Destination** | NOT YET DECIDED — Stage 1 establishes a capability-development/modernization phenomenon, but theory, scholarly gap, and contribution remain open |
 | Awaiting your verification | GRO-01 · v0.2 |
 | Sections verified | 0 of 11 in canonical GRO; researcher acceptance of v0.1 is recorded in Issue #1 |
-| `brain.md` commit | Issue #4 branch; final sync to be recorded at checkpoint |
-| Last updated / by | 2026-10-11 / ChatGPT, Issue #4, PR #5 |
+| `brain.md` commit | synchronized to Stage 1 merge `579c1bbf9618498819cc689ead14333d11f221f5`; post-merge sync via Issue #4 |
+| Last updated / by | 2026-10-11 / ChatGPT, Issue #4, PR #5 merged |
 
 ## How to read this
 

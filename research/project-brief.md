@@ -30,9 +30,9 @@ Do not guess answers. Fill fields only from researcher-provided information or v
 | Methodological decision framework | Creswell & Creswell (2023), 6th ed. | Better Research default; supplement with specialist methodological sources as needed |
 | Design/method and rationale | NOT YET DECIDED | No method is selected before construct/model lock and FG1; DEC-008; DEC-010 |
 | Citation style | NOT YET DECIDED | Verify institutional/publisher requirements |
-| Primary research-output language | English (builder default); dissertation/output language NOT YET CONFIRMED | Builder default only; researcher/institution requirement needed |
-| Additional output/translation languages | Indonesian may be needed for researcher-facing work, but formal requirement NOT YET VERIFIED | Conversation language is not itself an institutional requirement |
-| Manuscript/output format | NOT YET DECIDED | Institutional/outlet requirement needed |
+| Primary research-output language | Dissertation language remains NOT YET CONFIRMED institutionally; **Issue #15 background manuscript is explicitly authorized in Indonesian by the researcher.** | Researcher instruction in Issue #15 / current conversation; institutional requirement still unknown |
+| Additional output/translation languages | English remains repository-documentation default; other dissertation outputs may be Indonesian or bilingual when explicitly authorized or institutionally required. | Issue #15 records the first manuscript-language authorization |
+| Manuscript/output format | Canonical working manuscript uses Markdown; final institutional format NOT YET DECIDED. | `manuscript/README.md`; institutional requirement needed |
 | AI and authorship policy | NOT YET VERIFIED | Institutional/publisher policy required |
 | Ethics and data requirements | NOT YET VERIFIED | Must be established before participant contact or restricted-data work |
 | Intended form of contribution | NOT YET ESTABLISHED. An HRM mechanism/boundary-condition contribution remains only a candidate until construct–field fit, theory, and empirical literature are reviewed. | Issues #7–#12; DEC-010 |
@@ -79,7 +79,7 @@ The Renstra directly strengthens the institutional case for leadership, HR capab
 
 ## Language policy
 
-Repository documentation remains in English for portability. Research outputs remain English by default until the researcher or an institutional/outlet requirement explicitly establishes Indonesian, bilingual, or another language as authoritative. Source material stays in its original language. Translation must preserve uncertainty, attribution, and technical meaning.
+Repository documentation remains in English for portability. Research outputs remain English by default unless the researcher or an institutional/outlet requirement explicitly establishes another language. For **Issue #15**, the researcher has explicitly requested the dissertation background manuscript in Indonesian; `manuscript/01-latar-belakang.md` is therefore authored in Indonesian. This authorization applies to that working manuscript and does not yet establish the institution-wide dissertation language requirement. Source material stays in its original language. Translation must preserve uncertainty, attribution, and technical meaning.
 
 ## Standards adoption
 

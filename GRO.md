@@ -8,15 +8,15 @@ The only part of this file that is overwritten. Sections below keep their histor
 
 | | |
 |---|---|
-| Project | NOT YET FILLED |
-| Builder version / mode | 0.3.0 · TEMPLATE |
-| Current stage | Stage 0 — Context |
+| Project | Sudianto Dissertation — Korbrimob Polri HRM research |
+| Builder version / mode | 0.3.0 · RESEARCH |
+| Current stage | Stage 0 — Context / Stage 1 — Phenomenon framing |
 | Current flow gate | FG0 · NOT ASSESSED |
-| **Destination** | NOT YET DECIDED — the contribution this study is aiming at, in plain words |
-| Awaiting your verification | NONE |
+| **Destination** | NOT YET DECIDED — the evidence-backed contribution cannot be set before locus, theory, and empirical literature are reviewed |
+| Awaiting your verification | GRO-01 · v0.1 |
 | Sections verified | 0 of 11 |
-| `brain.md` commit | NOT YET FILLED |
-| Last updated / by | NOT YET FILLED |
+| `brain.md` commit | initialization branch; final sync recorded in `brain.md` / Issue #1 checkpoint |
+| Last updated / by | 2026-10-11 / ChatGPT, Issue #1, PR #2 |
 
 ## How to read this
 
@@ -24,22 +24,18 @@ Read it top to bottom and you have the whole study: what it is about, which theo
 
 Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, awaiting you) → `VERIFIED` (you agreed, with your name and the date) or `REVISED` (you asked for a different direction, or new evidence changed it — the section is rewritten and re-reported). **The AI never marks a section `VERIFIED`.**
 
-Nothing has been reached yet. The eleven sections below are the shape of the study; each is filled as the research reaches it.
-
 ## GRO-01 · Introduction
 
-- Status: NOT YET REACHED
+- Status: REPORTED
 - Flow stage / gate: Stage 0–1 · FG0
-- Version: — · not yet written
-- Basis: —
+- Version: v0.1 · PR #2
+- Basis: CTX-001, CTX-002, CTX-003; `research/project-brief.md` v0.1; `research/problem-memo.md` v0.1
 - Verified by / date: —
 
-Reports the phenomenon, the locus, the paradigm, and why this study is being done. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+This dissertation is being framed as doctoral HRM research concerning Korbrimob Polri personnel, beginning from a researcher-proposed model involving transformational leadership, competence-development practices, affective organizational commitment, digital competence, and individual work performance. At initialization, however, only the locus, disciplinary scope, and proposed constructs are established; no registered source yet demonstrates a specific Korbrimob performance, commitment, leadership, development, or digital-capability problem. The introduction should therefore first establish the actual personnel phenomenon, time boundary, access constraints, and institutional context from primary evidence before any theory, gap, method, or novelty is selected. The candidate focus is individual personnel, but its final justification remains open.
 
-- What this forecloses: —
-- Not yet settled: —
+- What this forecloses: treating the working title/model as evidence; asserting that Korbrimob performance or commitment is low; selecting theory, method, mediation/moderation paths, or novelty before the evidence chain exists.
+- Not yet settled: institutional guidelines; empirical phenomenon and time boundary; participant/data access; final unit of analysis; paradigm; final constructs/relationships.
 
 ## GRO-02 · Grand theory
 
@@ -49,9 +45,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports which theory explains the phenomenon, why that one, and what role it plays in the study. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports which theory explains the phenomenon, why that one, and what role it plays in the study. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -64,9 +58,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports what the empirical literature shows, and the gap that follows from it. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports what the empirical literature shows, and the gap that follows from it. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -79,9 +71,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports where this study stands against the state of the art. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports where this study stands against the state of the art. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -94,9 +84,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports the questions, and why they are phrased and bounded this way. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports the questions, and why they are phrased and bounded this way. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -109,9 +97,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports the approach and design, and why they fit the questions and the paradigm. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports the approach and design, and why they fit the questions and the paradigm. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -124,9 +110,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports where the data comes from, how it is cleaned and analyzed, and why. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports where the data comes from, how it is cleaned and analyzed, and why. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -139,9 +123,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports what the data shows and how it answers each research question. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports what the data shows and how it answers each research question. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -154,9 +136,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports what the findings mean against the theory and the literature. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports what the findings mean against the theory and the literature. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -169,9 +149,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -184,9 +162,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports how the argument is arranged and why. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports how the argument is arranged and why. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -197,3 +173,4 @@ Every rewrite of a section is recorded here with its reason. Superseded paragrap
 
 | Section | Version | Date | PR | What changed and why | Sections put in question |
 |---|---|---|---|---|---|
+| GRO-01 | v0.1 | 2026-10-11 | #2 | Initial Sudianto project framing from researcher-provided context; deliberately withholds empirical phenomenon, theory, gap, method, and novelty until evidence is registered | GRO-02 through GRO-07 remain unopened |

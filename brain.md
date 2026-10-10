@@ -1,8 +1,8 @@
 # Brain — Coherence Anchor
 
-Project: NOT YET FILLED.
-Builder version: 0.3.0. Mode: TEMPLATE.
-Last synced commit: NOT YET FILLED. Synced by: NOT YET FILLED.
+Project: Sudianto Dissertation — Korbrimob Polri HRM research.
+Builder version: 0.3.0. Mode: RESEARCH.
+Last synced commit: 38d9031f5a01f184fe8c036acd843529615e3baa (Issue #1 / PR #2 checkpoint). Synced by: ChatGPT.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -34,8 +34,11 @@ Mandate, constraints, resources, access to the locus, and the paradigm with its 
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| CTX-001 | The researcher specifies this as doctoral Management research with an HRM concentration and Korbrimob Polri personnel as the study locus. | KNOWN | DEC-007 |  | CTX-002 |  | FG0 |  |
+| CTX-002 | The working title proposes transformational leadership, competence development practices, affective organizational commitment, digital competence, and individual work performance as starting constructs rather than evidence-validated selections. | KNOWN | DEC-007 | CTX-001 | CTX-003 |  | FG0 |  |
+| CTX-003 | Theory, paradigm, final construct relationships, research questions, method, and novelty remain undecided until the required evidence is registered and reviewed. | KNOWN | DEC-008 | CTX-002 |  |  | FG0–FG1 |  |
 
-Paradigm: NOT YET DECIDED. Reason: NOT YET FILLED.
+Paradigm: NOT YET DECIDED. Reason: the empirical problem and research questions are not yet established.
 
 ## Stage 1 — Phenomenon (`PHN`)
 
@@ -44,11 +47,13 @@ What is happening, where (locus), since when, and to whom. Evidence comes from t
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
 
-Locus: NOT YET FILLED.
+Locus: Korbrimob Polri personnel — researcher specified. The empirical phenomenon, time boundary, affected units/personnel, and locus evidence are NOT YET ESTABLISHED/REGISTERED.
 
 ## Stage 2 — Theory (`THR`) and theory gaps (`GAP`)
 
-Grand theory: NOT YET FILLED (original source `SRC`: NOT YET FILLED). Role of theory: NOT YET DECIDED (lens / hypothesis generator / sensitizing concepts). Developments searched with parameter set: NOT YET FILLED.
+Grand theory: NOT YET DECIDED (original source `SRC`: NOT YET REGISTERED). Role of theory: NOT YET DECIDED (lens / hypothesis generator / sensitizing concepts). Developments searched with parameter set: NOT YET REGISTERED.
+
+Prior project context mentioned Social Exchange Theory and ability–motivation logic; neither is adopted in this brain until the theory review is executed and evidenced.
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
@@ -65,7 +70,9 @@ Theory gaps — what the theory has not explained or tested for this phenomenon:
 
 ## Stage 3 — Empirical literature patterns (`LIT`) and research gaps (`GAP`)
 
-Matrix: `literature/literature-review/matrix.md`. Search parameter set: NOT YET FILLED. Screening parameter set: NOT YET FILLED.
+Matrix: `literature/literature-review/matrix.md`. Search parameter set: NOT YET REGISTERED. Screening parameter set: NOT YET REGISTERED.
+
+Prior matrices and article selections described outside the repository are leads only; they are not treated as a completed project literature review until search provenance, source notes, access status, and appraisal are registered here.
 
 Patterns — what the literature agrees on, disputes, or has not examined (three to five statements, not one per article):
 
@@ -101,13 +108,15 @@ Implications promised — theoretical (to Stage 2) and practical (to the locus),
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
 
-Urgency — why now: NOT YET FILLED.
+Urgency — NOT YET EVIDENCED. The researcher-specified locus and topic may be practically important, but institutional/source evidence is required before a “why now” claim is registered.
 
 FG1 check — the chain Phenomenon → Theory → Gap → Novelty → RQ is connected without a jump and relevant: NOT ASSESSED.
 
 ## Stage 5 — Method (`MTH`)
 
 Method decision record: NOT YET FILLED (status `PROPOSED` / `APPROVED`). Paradigm confirmed against the RQ: NOT ASSESSED. Reporting standard parameter set(s): NOT YET FILLED.
+
+No method, estimator, survey design, SEM/PLS-SEM specification, or mixed-methods design is selected at initialization.
 
 Method statements follow the decision order — approach, method/design, data types, data sources, collection, analysis (including cleaning), ethics — and link the `DEC` and `PRM` records behind them:
 
@@ -170,6 +179,7 @@ Terminology — one term per concept across all sections:
 
 | Concept | Term used | Rejected variants |
 |---|---|---|
+| Research locus | Korbrimob Polri personnel | Treating an organizational-level claim as established from individual perceptions |
 
 ## Coherence check
 
@@ -177,7 +187,7 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 
 | Check | Rule | Status | IDs affected |
 |---|---|---|---|
-| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | |
+| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | No PHN registered yet |
 | Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | |
 | Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | |
 | Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | NOT ASSESSED | |
@@ -188,6 +198,6 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 | Limitations bite | every `LIM` names the `CCL` or `IMP` it weakens | NOT ASSESSED | |
 | Method traces | every `MTH` links a `DEC` or `PRM` | NOT ASSESSED | |
 | Manuscript is mapped | every paragraph in the outline maps to at least one statement | NOT ASSESSED | |
-| No dangling links | validator passes; coherence report shows no dangling or orphan IDs | NOT ASSESSED | |
+| No dangling links | validator passes; coherence report shows no dangling or orphan IDs | NOT ASSESSED | CTX-003 currently has no downstream research statement because Stage 1 evidence is not yet registered |
 
 A PASS here is a mechanical and structural result. It is not an academic quality gate; those are assessed in `reviews/`.

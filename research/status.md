@@ -5,6 +5,7 @@ Builder status: READY TO USE.
 Research status: INITIALIZED IN RESEARCH MODE — GRO-01 AWAITING RESEARCHER VERIFICATION.
 Initialization Issue: #1 — `Initialize Sudianto dissertation research workspace and project brief`.
 Active branch: `issue-1-initialize-research-context`.
+Active PR: #2 — `Initialize Sudianto dissertation workspace in RESEARCH mode`.
 
 ## Current academic state
 
@@ -14,7 +15,7 @@ Stage 1 cannot be treated as substantively established until actual locus eviden
 
 ## Finding active work
 
-Use the Issue list in the verified project repository, then read the active snapshot/checkpoint and linked PR. Delivery status belongs in the Issue; this file records academic/research-stage state. The active initialization work is Issue #1.
+Use the Issue list in the verified project repository, then read the active snapshot/checkpoint and linked PR. Delivery status belongs in the Issue; this file records academic/research-stage state. The active initialization work is Issue #1 and PR #2.
 
 | Flow gate | Bundles | Status |
 |---|---|---|

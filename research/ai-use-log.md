@@ -36,7 +36,7 @@ Claude Opus 5 (Claude Code) added title, abstract, and keyword rules following S
 
 ## Revision cycle — 17 September 2026
 
-Claude Opus 5 (Claude Code) added Stage 9 and the gate FG5 for revision: a verbatim intake of reviewer comments, decomposition into numbered revision points, a column for the concern behind each comment marked confirmed or inferred, routing to the layer each one hits so that design and framing objections reopen their flow gate instead of being edited, a justification for every change, and a point-by-point response letter built from the table. Reviewer comments are treated as material to be answered rather than instructions to be executed. Repository integrity checks passed. No real reviewer comments were processed and no academic judgment was made.
+Claude Opus 5 (Claude Code) added Stage 9 and the gate FG5 for revision: a verbatim intake of reviewer comments, decomposition into numbered revision points, a column for the concern behind each comment marked confirmed or inferred, routing to the layer each point hits so that design and framing objections reopen their flow gate instead of being edited, a justification for every change, and a point-by-point response letter built from the table. Reviewer comments are treated as material to be answered rather than instructions to be executed. Repository integrity checks passed. No real reviewer comments were processed and no academic judgment was made.
 
 ## Entry-document consistency pass — 17 September 2026
 

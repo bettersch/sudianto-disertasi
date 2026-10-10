@@ -5,6 +5,7 @@ Record substantive AI use without including sensitive data. This log helps resea
 | Date | Tool/model | Task | Safe inputs | Outputs | Actual verification | Human responsible |
 |---|---|---|---|---|---|---|
 | 2026-09-07 | Codex; exact model identity not recorded | Prepared the initial builder and skills | User instructions, prior template structure, public standards sources | Project rules, skills, and working templates | Agent checked structure/links/frontmatter before commit; no human academic review was performed | NOT YET DESIGNATED |
+| 2026-10-11 | ChatGPT, GPT-5.6 Sol | Initialized Sudianto research workspace, project brief, initial framing, coherence anchor, and GRO-01 report | Researcher-provided project context; repository governance files; no participant data or restricted data | Issue #1; RESEARCH-mode project brief; status; problem memo; decision records; brain context statements; GRO-01 report | GitHub repository/owner and source files were read back; changes are routed through the Issue branch and PR. No empirical academic claim, institutional policy, ethics approval, theory, method, or novelty was independently verified in this initialization | NOT YET DESIGNATED |
 
 For later entries, add corrections, limits of use, and the location of human verification when it actually occurs. Do not claim that AI use has institutional approval until the applicable policy has been verified.
 
@@ -39,3 +40,7 @@ Claude Opus 5 (Claude Code) added Stage 9 and the gate FG5 for revision: a verba
 ## Entry-document consistency pass — 17 September 2026
 
 Claude Opus 5 (Claude Code) reconciled the entry documents with the final 0.3.0 state: corrected stale stage counts and flow-gate ranges across `AGENTS.md`, `README.md`, and the docs; removed a duplicate stage table from `README.md`; replaced leftover vocabulary from a superseded GRO model; and added an explicit description of the mechanism — what triggers what, what each gate blocks, and where the researcher's judgment enters — so that a human reader and an agent can follow the same account. The changelog entry for 0.3.0 was rewritten to match the shipped state and now records the known limits. Repository integrity checks passed. Documentation only; no research artifact was changed.
+
+## Sudianto workspace initialization — 11 October 2026
+
+ChatGPT used the researcher-provided project context only as a mandate and working specification, not as empirical support. Repository governance files were read first; Issue #1 was created; a dedicated branch was opened; the project brief was switched to RESEARCH mode; theory, paradigm, method, novelty, and empirical phenomenon claims were deliberately left unresolved; and GRO-01 was reported for researcher verification. No participant data were processed, no academic database search was claimed, no ethics or institutional approval was inferred, and no prior conversational source summary was promoted to a verified project source.

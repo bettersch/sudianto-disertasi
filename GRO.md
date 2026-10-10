@@ -149,7 +149,7 @@ Reports what the findings mean against the theory and the literature. One paragr
 - Basis: —
 - Verified by / date: —
 
-Reports the answers to the questions, the limits, and what follows. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
+Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating where that part is going and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —

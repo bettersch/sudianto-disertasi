@@ -25,7 +25,7 @@
 | Credibility rule | Record publisher, publication date, canonical URL, exact locator/section, access status, and limits of use; prefer official Korbrimob/Polri source over summaries | Traceability and academic-integrity requirement | `docs/academic-integrity.md`; Stage 1 preset | One event reposted on multiple official channels is one event, not independent corroboration |
 | Retention rule | Retain a source only if it directly documents a Korbrimob function, strategic priority, personnel-development activity, technology-capability activity, or explicit current task/capability demand; exclude ceremonial/general publicity without substantive content | Keeps the corpus tied to the phenomenon rather than collecting all Korbrimob news | Issue #4 success criteria | Null/limiting evidence is retained when relevant |
 | Interpretation rule | Institutional sources may support statements that an activity, priority, function, or stated target exists; they may not establish employee perceptions, causal effectiveness, low performance, weak commitment, or a scholarly gap | Prevents overclaiming from organizational communications | `docs/academic-integrity.md`; Issue #4 | Critical limitation for GRO-01 |
-| Storage | One `SRC` note per retained source under `literature/search-online/`; search executions in `literature/searches/search-log.md` | Repository data structure | `docs/data-structure.md` | No PDFs or licensed material committed unless permitted |
+| Storage | One `SRC` note per retained source under `literature/search-online/`; search executions in `literature/searches/search-log.md` and `analysis/runs/RUN-###.md` | Repository data structure and validator-compatible execution trace | `docs/data-structure.md`; Issue #4 verification finding | No PDFs or licensed material committed unless permitted |
 | Logging | Every structured search run receives a RUN ID; exact query and platform/date recorded; displayed/exported counts reported only when actually returned | Reproducibility; no estimated search counts | `templates/search-log.md` | Web search result counts are not assumed when the interface does not expose them |
 
 ## Used by
@@ -33,15 +33,22 @@
 | Run (`RUN`) or artifact | Date | Result or output |
 |---|---|---|
 | RUN-001 | 2026-10-11 | Structured official-source search for leadership, competence development, digital capability, formal function, and strategic context |
+| RUN-002 | 2026-10-11 | Targeted Rakernis 2026 and capability/professionalism follow-up, including limiting evidence |
+| RUN-003 | 2026-10-11 | Exact-title/metadata verification and top-level Renstra access check |
 
 ## Statements this parameter set underlies
 
 | Statement ID | How the parameter affects it |
 |---|---|
-| PHN-001 to PHN-004 (planned) | Defines the source, time, locus, and interpretation boundaries for Stage 1 phenomenon statements |
+| PHN-001 | Defines source, locus, time, and interpretation boundaries for formal training-function evidence |
+| PHN-002 | Defines source, locus, time, and interpretation boundaries for leadership-development evidence |
+| PHN-003 | Defines source, locus, time, and interpretation boundaries for competence/technology capability evidence |
+| PHN-004 | Defines source, locus, time, and interpretation boundaries for HR-evaluation/modernization evidence |
+| PHN-005 | Defines the retention of limiting/counterevidence needed to avoid a generalized deficit framing |
 
 ## Change history
 
 | Date | Change | Reason | Results already seen? | Deviation ID |
 |---|---|---|---|---|
-| 2026-10-11 | Initial parameter set | Stage 1 locus-evidence protocol after exploratory leads | Exploratory leads were seen, but no structured Stage 1 claim was registered before this parameter set | NOT APPLICABLE — exploratory leads are documented in Issue #4 and the structured search is re-run under PRM-001 |
+| 2026-10-11 | Initial parameter set | Stage 1 locus-evidence protocol after exploratory leads | Exploratory leads were seen, but no structured Stage 1 claim was registered before this parameter set | NOT APPLICABLE — exploratory leads are documented in Issue #4 and the structured search was re-run under PRM-001 |
+| 2026-10-11 | Added RUN-002/RUN-003 and explicit PHN-001–PHN-005 links; added validator-compatible RUN record storage | Mechanical integrity review required each referenced RUN ID to resolve to an execution record; this does not change the search parameters or substantive results | YES, but no search parameter or result changed | NOT APPLICABLE — traceability repair only, recorded in PR #5 review history |

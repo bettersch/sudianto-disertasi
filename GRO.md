@@ -10,13 +10,13 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Sudianto Dissertation — Korbrimob Polri HRM research |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Stage 0 — Context / Stage 1 — Phenomenon framing |
-| Current flow gate | FG0 · NOT ASSESSED |
-| **Destination** | NOT YET DECIDED — the evidence-backed contribution cannot be set before locus, theory, and empirical literature are reviewed |
-| Awaiting your verification | GRO-01 · v0.1 |
-| Sections verified | 0 of 11 |
-| `brain.md` commit | initialization branch; final sync recorded in `brain.md` / Issue #1 checkpoint |
-| Last updated / by | 2026-10-11 / ChatGPT, Issue #1, PR #2 |
+| Current stage | Stage 1 — Phenomenon / locus evidence completed for current framing; Stage 2 not started |
+| Current flow gate | FG0 · NOT ASSESSED; FG1 · NOT ASSESSED |
+| **Destination** | NOT YET DECIDED — Stage 1 establishes a capability-development/modernization phenomenon, but theory, scholarly gap, and contribution remain open |
+| Awaiting your verification | GRO-01 · v0.2 |
+| Sections verified | 0 of 11 in canonical GRO; researcher acceptance of v0.1 is recorded in Issue #1 |
+| `brain.md` commit | Issue #4 branch; final sync to be recorded at checkpoint |
+| Last updated / by | 2026-10-11 / ChatGPT, Issue #4 |
 
 ## How to read this
 
@@ -28,14 +28,14 @@ Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, aw
 
 - Status: REPORTED
 - Flow stage / gate: Stage 0–1 · FG0
-- Version: v0.1 · PR #2
-- Basis: CTX-001, CTX-002, CTX-003; `research/project-brief.md` v0.1; `research/problem-memo.md` v0.1
-- Verified by / date: —
+- Version: v0.2 · Issue #4 branch; PR pending
+- Basis: CTX-001, CTX-002, CTX-003; PHN-001, PHN-002, PHN-003, PHN-004, PHN-005; SRC-001–SRC-006; PRM-001; `research/problem-memo.md` v0.2
+- Verified by / date: AWAITING RESEARCHER
 
-This dissertation is being framed as doctoral HRM research concerning Korbrimob Polri personnel, beginning from a researcher-proposed model involving transformational leadership, competence-development practices, affective organizational commitment, digital competence, and individual work performance. At initialization, however, only the locus, disciplinary scope, and proposed constructs are established; no registered source yet demonstrates a specific Korbrimob performance, commitment, leadership, development, or digital-capability problem. The introduction should therefore first establish the actual personnel phenomenon, time boundary, access constraints, and institutional context from primary evidence before any theory, gap, method, or novelty is selected. The candidate focus is individual personnel, but its final justification remains open.
+Korbrimob Polri is a defensible HRM locus because continuous technical and unit training is an explicit organizational function, while 2026 institutional records show active leadership development, specialist competence development, technology-related capability building, and organization-level calls for HR evaluation and operational modernization as tasks become more complex. These records support a current capability-development and modernization phenomenon, not a generalized performance crisis; official reporting also notes recent achievements. The introduction should therefore ask how such organizational development and leadership conditions are experienced at the personnel level and whether they help explain individual work outcomes, while leaving the proposed constructs open to challenge by theory and literature. Individual mechanisms, final constructs, access, and the scholarly gap remain unsettled.
 
-- What this forecloses: treating the working title/model as evidence; asserting that Korbrimob performance or commitment is low; selecting theory, method, mediation/moderation paths, or novelty before the evidence chain exists.
-- Not yet settled: institutional guidelines; empirical phenomenon and time boundary; participant/data access; final unit of analysis; paradigm; final constructs/relationships.
+- What this forecloses: framing Korbrimob as generally low-performing without direct evidence; treating training/modernization as proof of deficiency; assuming technology capability is equally relevant to every role; selecting theory, mediation/moderation, method, or novelty before Stage 2–4 evidence.
+- Not yet settled: institutional dissertation requirements; participant/data access; final unit and time boundary; theoretical mechanism; retention of all five proposed constructs; scholarly gap; paradigm and design.
 
 ## GRO-02 · Grand theory
 
@@ -173,4 +173,9 @@ Every rewrite of a section is recorded here with its reason. Superseded paragrap
 
 | Section | Version | Date | PR | What changed and why | Sections put in question |
 |---|---|---|---|---|---|
-| GRO-01 | v0.1 | 2026-10-11 | #2 | Initial Sudianto project framing from researcher-provided context; deliberately withholds empirical phenomenon, theory, gap, method, and novelty until evidence is registered | GRO-02 through GRO-07 remain unopened |
+| GRO-01 | v0.1 | 2026-10-11 | #2 | Initial Sudianto project framing from researcher-provided context; deliberately withheld empirical phenomenon, theory, gap, method, and novelty until evidence was registered | GRO-02 through GRO-07 remained unopened |
+| GRO-01 | v0.2 | 2026-10-11 | Issue #4 / PR pending | Registered Stage 1 locus evidence replaced the evidence-absent framing with a bounded capability-development and modernization phenomenon and explicit limits against a generalized deficit narrative | GRO-02 remains unopened pending researcher verification of v0.2 |
+
+### Superseded GRO-01 v0.1 paragraph
+
+This dissertation is being framed as doctoral HRM research concerning Korbrimob Polri personnel, beginning from a researcher-proposed model involving transformational leadership, competence-development practices, affective organizational commitment, digital competence, and individual work performance. At initialization, however, only the locus, disciplinary scope, and proposed constructs are established; no registered source yet demonstrates a specific Korbrimob performance, commitment, leadership, development, or digital-capability problem. The introduction should therefore first establish the actual personnel phenomenon, time boundary, access constraints, and institutional context from primary evidence before any theory, gap, method, or novelty is selected. The candidate focus is individual personnel, but its final justification remains open.

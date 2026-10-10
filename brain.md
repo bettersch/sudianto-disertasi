@@ -2,7 +2,7 @@
 
 Project: Sudianto Dissertation — Korbrimob Polri HRM research.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: 38d9031f5a01f184fe8c036acd843529615e3baa (Issue #1 / PR #2 checkpoint). Synced by: ChatGPT.
+Last synced commit: 53bfd0ed944a68a28e8529a814e9804ed44b01b9 (initialization merge from PR #2). Synced by: ChatGPT / Issue #1.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 

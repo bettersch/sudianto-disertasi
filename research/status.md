@@ -7,7 +7,7 @@ Initialization Issue: #1 — `Initialize Sudianto dissertation research workspac
 Initialization PRs: #2 and #3 merged to `main`.
 Stage 1 evidence PR: #5 — merged to `main` at `579c1bbf9618498819cc689ead14333d11f221f5`.
 Issue #4: CLOSED after explicit researcher verification of GRO-01 v0.2 on 2026-10-11.
-Active research work: Issues #7–#12 implement the researcher-directed construct–field/model-lock sequence. Issue #15 runs in parallel to produce a bounded, evidence-based **background manuscript only** and does not bypass the construct/model lock.
+Active research work: Issues #7–#12 implement the researcher-directed construct–field/model-lock sequence. Issue #15 produced a bounded, evidence-based **background manuscript only** and does not bypass the construct/model lock.
 
 ## Current academic state
 
@@ -17,7 +17,7 @@ SRC-007 materially strengthens the locus evidence. It explicitly documents organ
 
 These institutional statements do **not** establish that all personnel have low performance, weak commitment, low digital competence, or a specific academic leadership-style problem. They remain organization-level planning/self-diagnosis evidence until personnel-level, construct, measurement, and theory audits are completed.
 
-Issue #15 has now registered a bounded set of scholarly sources (`SRC-008`–`SRC-014`) used only to deepen the background and test alternative mechanisms. A working Indonesian draft exists at `manuscript/01-latar-belakang.md`; it is explicitly provisional and must be revised if Issues #8–#12 change the retained constructs or model.
+Issue #15 registered a bounded set of scholarly sources (`SRC-008`–`SRC-014`) used only to deepen the background and test alternative mechanisms. A working Indonesian draft exists at `manuscript/01-latar-belakang.md`; it is explicitly provisional and must be revised if Issues #8–#12 change the retained constructs or model.
 
 The working title and five proposed constructs remain researcher-provided starting specifications. No final construct, structural path, theory, paradigm, research question, method, estimator, instrument, novelty, contribution, ethics status, or access claim has been approved.
 
@@ -30,11 +30,11 @@ The working title and five proposed constructs remain researcher-provided starti
 5. **Issue #11** — compare candidate theories and rival mechanisms only after construct–field alignment.
 6. **Issue #12** — formal construct/model lock gate before final RQs/hypotheses or method selection.
 
-This sequence implements DEC-010. Stage 2 theory selection is deliberately blocked until the construct–field/problem alignment is sufficiently clear. Issue #15 may improve prose/framing but cannot lock any construct or theory.
+This sequence implements DEC-010. Stage 2 theory selection is deliberately blocked until the construct–field/problem alignment is sufficiently clear. The Issue #15 background may improve prose/framing but cannot lock any construct or theory.
 
 ## Finding active work
 
-Use the Issue list in the verified project repository, then read the active Issue checkpoint and linked PR. Issue #7 is the academic continuity anchor for problem extraction; Issue #15 is the bounded writing branch for the background manuscript. Issues #8–#12 are staged dependencies and should not be treated as completed merely because they are open.
+Use the Issue list in the verified project repository, then read the active Issue checkpoint and linked PR. Issue #7 remains the academic continuity anchor for problem extraction. Issue #15 is the provenance record for the working background manuscript. Issues #8–#12 are staged dependencies and should not be treated as completed merely because they are open.
 
 | Flow gate | Bundles | Status |
 |---|---|---|
@@ -56,7 +56,7 @@ A flow gate takes the most conservative status among the gates it bundles.
 | G4 Design | NOT ASSESSED | Method/design blocked by Issue #12 model-lock gate |
 | G5 Execution readiness | NOT ASSESSED | Ethics, access, sampling, instrument, and governance requirements not yet verified |
 | G6 Results & interpretation | NOT ASSESSED | No data analysis |
-| G7 Manuscript & examination/review | NOT ASSESSED | Working background draft exists under Issue #15; no validated/final manuscript and no institutional formatting review |
+| G7 Manuscript & examination/review | NOT ASSESSED | Working background draft exists from Issue #15; no validated/final manuscript and no institutional formatting review |
 
 Direction: the next objective is not to defend the five-variable model. It is to determine which constructs, if any, survive an evidence chain from the official Korbrimob problem context to academic construct fit, personnel-level observability, measurement feasibility, theory, and closest empirical literature. The background draft is deliberately written to remain valid under that uncertainty.
 

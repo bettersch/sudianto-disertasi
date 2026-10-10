@@ -1,21 +1,23 @@
 # Research Status
 
-Active stage: Stage 0 — Context initialization; Stage 1 framing is prepared but empirical phenomenon evidence is not yet registered.
+Active stage: Stage 1 — Phenomenon / locus evidence completed for current framing; Stage 2 theory review has NOT started.
 Builder status: READY TO USE.
-Research status: INITIALIZED IN RESEARCH MODE — GRO-01 AWAITING RESEARCHER VERIFICATION.
+Research status: RESEARCH MODE — GRO-01 v0.2 REPORTED AND AWAITING RESEARCHER VERIFICATION.
 Initialization Issue: #1 — `Initialize Sudianto dissertation research workspace and project brief`.
-Initialization PR: #2 — merged to `main` at `53bfd0ed944a68a28e8529a814e9804ed44b01b9`.
-Active research work: Issue #1 remains open only for researcher verification/revision of GRO-01 and the next evidence-framing step.
+Initialization PRs: #2 and #3 merged to `main`.
+Active research work: Issue #4 — `Establish Korbrimob locus evidence and revise GRO-01`.
 
 ## Current academic state
 
-The repository has been initialized for Sudianto's doctoral Management/HRM project. The working title, locus, and five proposed constructs are recorded as researcher-provided starting specifications. They are **not** treated as evidence-validated model choices. No final theory, paradigm, research questions, method, estimator, instrument, novelty, contribution, ethics status, or access claim has been approved.
+Stage 1 now has a registered search parameter set (`PRM-001`), search log (`RUN-001` to `RUN-003`), six primary institutional source notes (`SRC-001` to `SRC-006`), and five phenomenon statements (`PHN-001` to `PHN-005`). The supported locus framing is ongoing personnel capability development and operational modernization under complex and increasingly technology-relevant task demands.
 
-Stage 1 cannot be treated as substantively established until actual locus evidence is registered. Prior conversational statements about Korbrimob conditions are not imported as empirical evidence unless the underlying source is accessed, recorded, and linked.
+The registered evidence does **not** support a generalized claim that Korbrimob performance is low, that commitment is weak, that leadership is deficient, or that digital competence is equally relevant to every personnel role. Official reporting also recognizes recent achievements, and technology-capability evidence is role-specific in at least one retained source.
+
+The working title and five proposed constructs remain researcher-provided starting specifications. No final theory, paradigm, research questions, method, estimator, instrument, novelty, contribution, ethics status, or access claim has been approved.
 
 ## Finding active work
 
-Use the Issue list in the verified project repository, then read the active snapshot/checkpoint and linked PR. Delivery status belongs in the Issue; this file records academic/research-stage state. Initialization is integrated; Issue #1 is the current continuity anchor while GRO-01 awaits researcher verification.
+Use the Issue list in the verified project repository, then read the active snapshot/checkpoint and linked PR. Delivery status belongs in the Issue; this file records academic/research-stage state. Issue #4 is the current continuity anchor until its PR is integrated and GRO-01 v0.2 is reported back to the researcher.
 
 | Flow gate | Bundles | Status |
 |---|---|---|
@@ -30,25 +32,26 @@ A flow gate takes the most conservative status among the gates it bundles.
 
 | Gate | Status | Audit/evidence link |
 |---|---|---|
-| G0 Context | NOT ASSESSED | Issue #1; `research/project-brief.md` initialization |
-| G1 Problem | NOT ASSESSED | `research/problem-memo.md` v0.1; empirical phenomenon not yet evidenced |
-| G2 Protocol & evidence | NOT ASSESSED | No project-specific search/screening protocol executed yet |
-| G3 Theory & contribution | NOT ASSESSED | Theory and contribution deliberately not selected at initialization |
-| G4 Design | NOT ASSESSED | Method/design deliberately not selected at initialization |
+| G0 Context | NOT ASSESSED | Issues #1 and #4; `research/project-brief.md`; GRO-01 v0.2 awaiting verification |
+| G1 Problem | NOT ASSESSED | `research/problem-memo.md` v0.2; PHN-001–PHN-005 registered; theory/gap/RQs not yet established |
+| G2 Protocol & evidence | NOT ASSESSED | Stage 1 locus search is registered, but Stage 2–3 review protocols/evidence are not yet executed |
+| G3 Theory & contribution | NOT ASSESSED | No theory, scholarly gap, novelty, or contribution selected |
+| G4 Design | NOT ASSESSED | Method/design deliberately not selected before FG1 |
 | G5 Execution readiness | NOT ASSESSED | Ethics, access, sampling, instrument, and governance requirements not yet verified |
 | G6 Results & interpretation | NOT ASSESSED | No data analysis |
 | G7 Manuscript & examination/review | NOT ASSESSED | No research manuscript |
 
-Direction: `GRO.md` reports each part of the research outline and its reasoning; GRO-01 is reported for researcher verification. Statements: `brain.md`.
+Direction: `GRO.md` reports each part of the research outline and its reasoning. GRO-01 v0.2 is re-reported because Stage 1 evidence materially advanced the introduction framing. Statements and evidence links are in `brain.md` and `literature/claim-ledger.md`.
 
 ## Evidence needed next
 
-1. Official institution/program dissertation requirements and citation/output rules.
-2. Primary Korbrimob/Polri sources that establish the actual phenomenon and its time boundary.
-3. Evidence of feasible participant/data access and the defensible unit of analysis.
-4. Verified scholarly sources for construct definitions, closest studies, counterevidence, alternative mechanisms, and boundary conditions.
-5. Only after the framing/evidence chain: theory selection, RQs, method/design, measurement, and contribution assessment.
+1. Researcher verifies or revises GRO-01 v0.2.
+2. Official institution/program dissertation requirements and citation/output rules.
+3. Evidence of feasible participant/data access and the defensible final unit of analysis.
+4. Stage 2 theoretical search and appraisal comparing candidate explanatory mechanisms.
+5. Stage 3 empirical literature review with closest studies, counterevidence, alternative mechanisms, boundary conditions, and construct-overlap audit.
+6. Only after the framing chain is supportable: final RQs, method/design, measurement, and contribution assessment.
 
-Next step: the researcher verifies or revises GRO-01, then the project registers and reviews actual locus evidence before attempting theory, novelty, RQ, or method decisions.
+Next step after GRO-01 v0.2 verification: open a bounded Stage 2 theory-review Issue; do not adopt Social Exchange Theory, AMO, or another theory before that review.
 
-Creating or translating templates does not produce ethics approval, data, a literature review, empirical results, or a passed quality gate.
+Creating source notes or passing repository validation does not constitute ethics approval, empirical participant data, a scholarly gap, or a passed academic quality gate.
